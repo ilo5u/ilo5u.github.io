@@ -9,6 +9,7 @@ permalink: /
 - [CMake](./notes/cmake)
 - [Scons](./notes/scons)
 - [Gem5](./notes/gem5)
+- [SPEC CPU](./notes/spec)
 
 # Logs
 
